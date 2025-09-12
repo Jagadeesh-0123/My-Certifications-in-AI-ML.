@@ -1,1 +1,1 @@
-# My-Certifications-in-AI-ML.
+# My-Certifications-in-AI-ML
