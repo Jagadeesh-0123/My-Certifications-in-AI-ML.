@@ -26,8 +26,6 @@ I have categorized them for easy reference.
 ---
 
 ## 💻 Programming & Other Skills (Supporting)
-- [C Programming](./C%20Programming.pdf)
-- [Programming in Java](./Programming%20In%20Java.pdf)
 - [SQL Basics — SkillRack](./SQL%20-%20Basics%20skillrack%20certificate.pdf)
 - [TCS IT & Non-IT Certificate](./tcs%20it%20&%20non-it%20certificate.pdf)
 - [TCS Skill Certificate](./tcs%20skill%20certificate.pdf)
